@@ -25,7 +25,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'test-project',
 			'username'  => 'root',
-			'password'  => 'root',
+			'password'  => 'uymU4maRIA',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
