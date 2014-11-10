@@ -23,9 +23,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'test-project',
+			'database'  => 'l4todo',
 			'username'  => 'root',
-			'password'  => 'root',
+			'password'  => 'uymU4maRIA',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
